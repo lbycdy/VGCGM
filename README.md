@@ -2,7 +2,7 @@
 # 🎥 demo
 ![GIF demo](1.gif)
 ![GIF demo](2.gif)
-
+![GIF demo](3.gif)
 
 ## Preparation
 
@@ -16,6 +16,6 @@ Environment
 run:
 
 ```
-python -u traincrogtwinV010S8S16S32s4noshared_datatwin.py --config config/OCID-VLG/20240830swincrogV010S8S16S32S4noshared_datatwinr1.yaml
+python -u trainV012S8S16S32att32depthtwinmaskcatwordbfdecoderonehotshow.py --config config/OCID-VLG/20250118modelV012depthtwinmaskgrasp0.5catwordshow.yaml
 ```
 
