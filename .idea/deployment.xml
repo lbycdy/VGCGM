@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="VGCGM" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="VGCGM">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/work/VGCGM" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@192.10.84.73:26949 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/work/VGCGM" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
